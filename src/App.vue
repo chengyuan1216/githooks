@@ -15,7 +15,7 @@ export default {
   },
   methods: {
     test() {
-      const a = 2
+      // const a = 3
     }
   }
 }
